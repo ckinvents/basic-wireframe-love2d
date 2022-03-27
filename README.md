@@ -1,5 +1,5 @@
 # basic-wireframe-love2d
-A really naive, stupid simple, unoptimized wireframe renderer implemented in the Love2D framework.
+A very basic wireframe renderer implemented in the Love2D framework.
 
 Instructions:
 To execute, add to zip, then rename extension to ".love"
